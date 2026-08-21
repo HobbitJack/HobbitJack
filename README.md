@@ -1,6 +1,6 @@
 # HobbitJack
 Astrophysics post-baccalaureate researcher at my undergraduate *alma mater* of Michigan State University.
-I study high-energy X-ray astrophysics using the NuSTAR, XMM-Newton, XRISM, and Chandra space telescopes, and am officially a member of the IceCube Neutrino Observatory collaboration <https://icecube.wisc.edu/>.
+I study high-energy X-ray astrophysics using the NuSTAR, XMM-Newton, XRISM, and Chandra space telescopes, and am officially a member of the IceCube Neutrino Observatory collaboration <<https://icecube.wisc.edu/>>.
 Planning on graduate school at a US university in Astrophysics.
 
 Not interested in 'business proposals' or anything of the sort.
