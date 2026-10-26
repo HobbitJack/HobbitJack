@@ -6,6 +6,10 @@ Planning on graduate school at a US university in Astrophysics.
 Not interested in 'business proposals' or anything of the sort.
 I am an astrophysics researcher, not a professional programmer.
 
+I am migrating to Codeberg.
+This account will be mostly un-monitored outside of work purposes.
+Find my new work at https://codeberg.org/florb/.
+
 ## My Projects
 - `pt(1)`: The periodic table app you're actually looking for, for the command line. No frills, no `ncurses` interface. Also serves as an element database for work in the shell. 
 - `sun(1)`: A calculator for sunrise and sunset (or twilight) at any city in an easily-editable database, or for any coordinate and elevation above the horizon on Earth.
